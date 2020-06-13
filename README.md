@@ -1,2 +1,0 @@
-# PBO
-# By Albert Hansel
